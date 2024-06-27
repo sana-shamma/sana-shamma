@@ -8,8 +8,8 @@
 
 <h2 align="left">1. Connect with me:</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sana-shamma-a14864218/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sana-shamma-linkedin" /></a>
-  <a href="mailto: sanashamma3@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sana-shamma-email"/></a>
+  <a href="https://www.linkedin.com/in/sana-shamma-a14864218/" target="blank" style="text-decoration: none;"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sana-shamma-linkedin" /></a>
+  <a href="mailto: sanashamma3@gmail.com" target="blank" style="text-decoration: none;"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sana-shamma-email"/></a>
 </p>
 <h2 align="left">2. Skills:</h2>
 <table style="border-collapse: collapse; width: 100%; margin-top: 20px;">
