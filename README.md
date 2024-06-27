@@ -16,7 +16,6 @@
   <thead>
     <tr>
       <th style="background-color: #2c3e50; color: white; font-weight: bold; font-size: 20px; padding: 8px; text-align: left;">Programming Languages</th>
-      <th style="padding: 8px; text-align: left;">Programming Language</th>
       <th style="padding: 8px; text-align: left;">Database</th>
       <th style="padding: 8px; text-align: left;">AI</th>
       <th style="padding: 8px; text-align: left;">Framework</th>
@@ -70,13 +69,13 @@
           <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="display: block; margin: 0 auto;"/>
         </a>
         <a href="https://scikit-image.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/scikit_image/scikit_image-icon.svg" alt="scikit-image" width="40" height="40" style="display: block; margin: 0 auto;"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scikit-image_logo.png" alt="scikit-image" width="40" height="40" style="display: block; margin: 0 auto;"/>
         </a>
         <a href="https://opencv.org/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" style="display: block; margin: 0 auto;"/>
         </a>
         <a href="https://spacy.io/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/spacy/spacy-icon.svg" alt="spacy" width="40" height="40" style="display: block; margin: 0 auto;"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="40" height="40" style="display: block; margin: 0 auto;"/>
         </a>
       </td>
       <td style="padding: 8px; vertical-align: middle;">
@@ -84,13 +83,13 @@
           <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" style="display: block; margin: 0 auto;"/>
         </a>
         <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/svelte/svelte-icon.svg" alt="svelte" width="40" height="40" style="display: block; margin: 0 auto;"/>
+          <img src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg" alt="svelte" width="40" height="40" style="display: block; margin: 0 auto;"/>
         </a>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40" style="display: block; margin: 0 auto;"/>
         </a>
         <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40" style="display: block; margin: 0 auto;"/>
+          <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" alt="fastapi" width="40" height="40" style="display: block; margin: 0 auto;"/>
         </a>
       </td>
       <td style="padding: 8px; vertical-align: middle;">
