@@ -15,11 +15,11 @@
 <table style="border-collapse: collapse; width: 100%; margin-top: 20px;">
   <thead>
     <tr>
-      <th style="background-color: #2c3e50; color: white; font-weight: bold; font-size: 20px; padding: 8px; text-align: left;">Programming Languages</th>
-      <th style="padding: 8px; text-align: left;">Database</th>
-      <th style="padding: 8px; text-align: left;">AI</th>
-      <th style="padding: 8px; text-align: left;">Framework</th>
-      <th style="padding: 8px; text-align: left;">Software</th>
+      <th style="background-color: #2c3e50; color: white; font-weight: bold; font-size: 20px; padding: 8px; text-align: center;">Programming Languages</th>
+      <th style="padding: 8px; text-align: center;">Database</th>
+      <th style="padding: 8px; text-align: center;">AI</th>
+      <th style="padding: 8px; text-align: center;">Framework</th>
+      <th style="padding: 8px; text-align: center;">Software</th>
     </tr>
   </thead>
   <tbody>
