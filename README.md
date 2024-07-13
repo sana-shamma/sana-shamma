@@ -46,7 +46,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scikit-image_logo.png" alt="scikit-image" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="40" height="40"/>
-        <img src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg#/media/File:Scikit_learn_logo_small.svg" alt="spacy" width="40" height="40"/>
       </td>
       <td style="padding: 8px; vertical-align: middle; text-align: center;">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
