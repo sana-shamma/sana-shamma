@@ -54,6 +54,8 @@
         <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
         <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" alt="fastapi" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
+        <img src="https://cdn.simpleicons.org/odoo/714B67" alt="Odoo" width="40" height="40"/>
       </td>
       <td style="padding: 8px; vertical-align: middle; text-align: center;">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
